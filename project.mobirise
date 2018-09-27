@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "gudedodegu",
-    "currentPage": "page2.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -561,6 +561,9 @@
               "color": "#ffffff"
             },
             "SPAN": {
+              "color": "#ffffff"
+            },
+            "BLOCKQUOTE": {
               "color": "#ffffff"
             }
           },
