@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "gudedodegu",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -568,7 +568,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><b>Different colored chicks are very pleasing to the eye, testing new drugs on laboratory rats are very convenient but what if we were to be put on their places? Do we think that dogs would treat us as their best friend if we keep on physically assaulting them if we would like to do so? Humans are the superior living creatures in earth, yet we make ourselves look dumb by relieving our stress to animals. If we were to stop doing these cruel things and start loving them the way they do towards us, wouldn't it be more peaceful and reassuring that they are there to protect us? Starting to change within ourselves by being responsible is the first step we are to take for us to be respected by another living things other than humans</b></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><span style=\"font-style: normal;\"><b>Different colored chicks are very pleasing to the eye, testing new drugs on laboratory rats are very convenient but what if we were to be put on their places? Do we think that dogs would treat us as their best friend if we keep on physically assaulting them if we would like to do so? Humans are the superior living creatures in earth, yet we make ourselves look dumb by relieving our stress to animals. If we were to stop doing these cruel things and start loving them the way they do towards us, wouldn't it be more peaceful and reassuring that they are there to protect us? Starting to change within ourselves by being responsible is the first step we are to take for us to be respected by another living things other than humans</b></span></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r4LBOUW9xW",
           "_anchor": "content2-1p",
           "_protectedParams": [],
@@ -3742,7 +3742,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Now it can't escape :D",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Drawing",
@@ -3756,6 +3756,32 @@
                 "customStyle1": "display-7",
                 "caption": "Shooting practice",
                 "active": false
+              },
+              {
+                "tags": "Drawing",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/11-720x960.png",
+                "thumb": "@PROJECT_PATH@/assets/images/11-720x960-720x960.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Circus is the best!",
+                "active": false
+              },
+              {
+                "tags": "Drawing",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12-720x960.png",
+                "thumb": "@PROJECT_PATH@/assets/images/12-720x960-720x960.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Get out of my way!",
+                "active": true
               }
             ]
           }
