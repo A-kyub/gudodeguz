@@ -2132,9 +2132,12 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#232323"
             },
             "I": {
+              "color": "#232323"
+            },
+            "SPAN": {
               "color": "#232323"
             }
           },
